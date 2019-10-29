@@ -1,0 +1,8 @@
+acc\acc_task\payload\fileexception.class
+acc\acc_task\payload\fileproperties.class
+acc\acc_task\payload\uploadfileresponse.class
+acc\acc_task\controller\Acc_TaskContoller.class
+acc\acc_task\payload\filestorage.class
+acc\acc_task\payload\filenotfound.class
+acc\acc_task\App.class
+acc\acc_task\payload\dbfilestore.class
